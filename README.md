@@ -10,9 +10,9 @@ Installation Guide
 2. Download and install Git. Similar to the last step, just click download on [this page](https://gitforwindows.org/) and follow any further instruction.
 3. Open the windows PowerShell and do the following commands (i.e. type/copy and paste it and press enter):
 
-...1. `cd documents`
+  * `cd documents`
 
-...2. `mkdir BP-Debating-ELO`
+  * `mkdir BP-Debating-ELO`
 
 ...3. `cd BP-Debating-ELO`
 
