@@ -9,12 +9,12 @@ Installation Guide
 1. Install Python. Go to the [downloads page](https://www.python.org/downloads/release/python-370/) and download any of the installers -  the instructions should be pretty clear from there.
 2. Download and install Git. Similar to the last step, just click download on [this page](https://gitforwindows.org/) and follow any further instruction.
 3. Open the windows PowerShell and do the following commands (i.e. type/copy and paste it and press enter):
-..* `cd documents`
-..* `mkdir BP-Debating-ELO`
-..* `cd BP-Debating-ELO`
-..* `git clone https://github.com/eoin-og/BP-Debating-ELO.git`
-..* `cd BP-Debating-ELO`
-..* `pip install -r requirements.txt`
+⋅⋅* `cd documents`
+⋅⋅* `mkdir BP-Debating-ELO`
+⋅⋅* `cd BP-Debating-ELO`
+⋅⋅* `git clone https://github.com/eoin-og/BP-Debating-ELO.git`
+⋅⋅* `cd BP-Debating-ELO`
+⋅⋅* `pip install -r requirements.txt`
 
 
 Running the Program
