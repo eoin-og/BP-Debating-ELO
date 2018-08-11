@@ -97,6 +97,6 @@ if __name__ == "__main__":
 
 	main(tab_urls, master_elo_df, init_elo_value, k, div)
 
-
+	print('\n\nAll done! Check out output_data/master_elo.csv to see results.\n')
 
 
