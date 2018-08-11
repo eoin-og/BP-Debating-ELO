@@ -1,0 +1,3 @@
+https://thetrinityopen.herokuapp.com/2018/tab/team
+https://earlsfortopen.herokuapp.com/2018/tab/team/
+https://www.tabbie.org/guu-summer-cup-/#team-tab
